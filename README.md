@@ -23,4 +23,4 @@ I am learning the fundamentals of programming, web development, and how to use G
 
 ## 📫 Contact
 - Email: cis0411095213@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/timothy-parolise
+- LinkedIn: https://www.linkedin.com/in/timothy-parolise-56bab3132
