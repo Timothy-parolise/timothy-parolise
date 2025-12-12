@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Timothy Parolise 👋
 
-<!--
-**Timothy-parolise/timothy-parolise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a Computer Information Systems student at San Jose City College.  
+I am learning the fundamentals of programming, web development, and how to use GitHub for version control.
 
-Here are some ideas to get you started:
+## 📚 What I’m Learning
+- HTML and CSS basics
+- JavaScript fundamentals
+- Version control with Git and GitHub
+- File organization and documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills (Beginner Level)
+- HTML
+- CSS
+- JavaScript
+- GitHub
+- Visual Studio Code
+
+## 📂 Current Focus
+- Completing coursework and class projects
+- Practicing GitHub repositories and README files
+- Building a foundation for future programming courses
+
+## 📫 Contact
+- Email: cis0411095213@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/timothy-parolise
